@@ -7,6 +7,29 @@
 #### Architecture: Multi-Agent Hybrid (CrewAI + LangGraph)
 #### Deployment Environment: Dockerized application optimized for Linux servers.
 
+
+
+
+
+## 📑 Project Documentation Index
+| Section | Key Focus |
+| :--- | :--- |
+| 🎯 [Executive Summary](#1-executive-summary) | High-level goals and the "Why" behind the suite. |
+| 💻 [Technology Stack](#2-technology-stack) | Deep dive into FastAPI, Gemini, and Agentic frameworks. |
+| 📋 [Requirement Strategy](#3-the-hybrid-requirement-strategy-phase-a) | Gherkin vs. Digital SRS methodology. |
+| 🤖 [5-Agent Architecture](#31-the-5-agent-architecture-in-detail) | Detailed breakdown of Phase A, B, and C agents. |
+| 🔄 [Sequential Data Flow](#4-sequential-data-flow) | Step-by-step logic from Ingestion to Sign-off. |
+| 🛠️ [Framework Standards](#5-automation-framework-standards-scalability--maintenance) | POM, Parallelism, and Cognitive Self-Healing. |
+
+---
+
+
+
+
+
+
+
+
 ## 1. Executive Summary
 
 The AI-Driven STLC Automation Suite is a closed-loop, autonomous ecosystem designed to manage the Software Testing Life Cycle. By combining a pure FastAPI orchestration backend with a multi-agent framework, the suite translates raw business requirements into a verified, production-ready application. It enforces strict enterprise standards (POM, parallel execution) and utilizes a cognitive self-healing loop to eliminate the overhead of manual script maintenance.
